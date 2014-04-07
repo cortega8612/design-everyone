@@ -1,0 +1,14 @@
+body {
+  padding-top: 90px;
+  font-size: 18px;
+}
+
+a, a:hover {
+color: #238b45;
+}
+
+.navbar-header>.navbar-brand, .navbar-inverse .navbar-nav>li>a {color: #238b45; margin-top: 7px;}
+
+.pull-left img { margin-right: 20px; }
+
+h1, h2, h3 { padding-top: 70px; margin-top: -70px; }
