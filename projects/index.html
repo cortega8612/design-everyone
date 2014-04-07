@@ -2,11 +2,8 @@
 layout: default
 ---
 
-<h1>Design for Everyone</h1>
-
-<p>This is the home page!</p>
-
-<h2>Projects</h2>
+<h1>This is the projects page!</h1>
+<hr />
 {% for post in site.categories['project'] %}
   <h4><a href='{{ site.base_url }}{{post.url}}'>{{post.title}}</a></h4>
 {% endfor %}
