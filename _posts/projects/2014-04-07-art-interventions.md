@@ -2,12 +2,18 @@
 layout: project
 categories: 
 - project
-title: "Art Interventions"
-date: 2014-04-07
+title: "Art/design toolkit for collaborative explorations of public space"
+date: 2014-11-07
 ---
 
-This is a test of a second project. (Alvaro)
+A collection of strategies and tactics for:
 
+1. The creation and consolidation of multidisciplinary collectives.
+2. The preparation of these collectives for emphatycally exploring local issues and concerns relevant in their situation.
+3. The strategies for the expansion of dialogue and civic participation.
+4. The facilitation of reflective interventions and site explorations.
+5. The identification of issues central for the construction of longer community engagement.
+6. Transition to community organizing, and transformation.
 
 Project done by:
 
