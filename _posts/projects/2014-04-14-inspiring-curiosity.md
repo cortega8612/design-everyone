@@ -3,7 +3,7 @@ layout: project
 categories: 
 - project
 title: "Inspiring Curiosity"
-date: 2014-14-07
+date: 2014-04-14
 ---
 
 Curiosity is the drive that pushes mankind to gain an understanding of the world around us. As children, it is the backbone to our learning structure. By constantly interacting with our environment, we form our understanding of the world in part through the information and attitudes we gain from being curious. With this assumption in mind, we can also assume that curiosity can be considered a vehicle that we use to expand ourselves.  As we age, we gain a greater understanding of the universe as well as a set of predictable expectations of how it works. Unfortunately, this can prevent us from being curious. By incorporating “easer eggs” into our design of 10 E. Lake, we will encourage curiosity within our users, overall creating a more personal relationship between the space and its occupants.
