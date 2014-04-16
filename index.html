@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<h1>A platform for proposals </h1>
+<h1>GFRY PUBLI(C)ITY HOMEPAGE</h1>
 
-<p> 
-GFRY PUBLI(C)ITY MISSION STATEMENT
+<p>Javascript Timeframe</p>
 
-We are a group of artists, architects, designers, educators, and administrators who are working to create multifunctional public spaces which will serve as a resource for potential projects. This project will foster collaboration, resource sharing, and ecological awareness through technology, community participation, and play.  </p>
 
 <h2>Projects</h2>
+
 {% for post in site.categories['project'] %}
   <h4><a href='{{ site.base_url }}{{post.url}}'>{{post.title}}</a></h4>
 {% endfor %}

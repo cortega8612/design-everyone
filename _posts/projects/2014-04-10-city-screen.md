@@ -7,7 +7,7 @@ date: 2014-10-07
 ---
 
 
-<img class="img-responsive img-rounded" src="/images/city_screen.jpg" alt="City Screen"/>
+<img class="img-responsive img-rounded" src="/images/2014-04-10-city-screen/city_screen.jpg" alt="City Screen"/>
 
 City Screen is a series of projections, screenings and interactive new media installations inviting the public to redesign 10 East Lake Street and provide the public access to sustainability and green technology resources. City Screen as the urban media uses technology to visualize data and increase our awareness of environment, as well as influences the way that our city functions as a community. City Screen invites public participant to work together toward sustainability. City Screen is where the stories, desires and memories of people are projected.
 
