@@ -13,7 +13,12 @@ This project reframes the traditional Design practice, from an object-oriented d
 
 The developing project is currently is in two stages: the educational and “real world” perspective, mainly focused on the building of teams that will be able to create complex solutions. Instead of looking at design as a discipline that will provide the solution to problems, design should be seen as the tool to create the necessary translations between disciplines: a multicultural, trans disciplinary tool that translate through the language of resiliency.
 
-<p class="col-md-8"><img class="img-responsive img-rounded" src="/images/2014-04-07-design-everyone/sullivan.jpg" alt="Think Tank Mindmap"/></p>
+---
+
+<p class="col-md-12"><img class="img-responsive img-rounded" src="/images/2014-04-07-design-everyone/sullivan.jpg" alt="Think Tank Mindmap"/></p>
+
+
+---
 
 Shifting from a position or degree based hierarchy; the teams will be established on a humanistic order, based on experience as expertise. The are not titles or degrees to recognize what is desired in public space, the communities interacts with that public space every day has the same right to decide what to do with it. The training received in education is not meant to decide for others, is meant to listen, synthetize, strategize and design in conjunction with the community. 
 
@@ -21,7 +26,8 @@ The necessity of feedback at any creative process is vital, since the scope is b
 
 <p class="col-md-12"><img class="img-responsive img-rounded" src="/images/2014-04-07-design-everyone/10east.jpg" alt="Real World"/></p>
 
-Therefore, building continuous feedback loops with the community, stakeholders and resilient teams is essential. It needs to be both objective and subjective; the resilient teams needs to understand the subjective opinions, analyze them, get insights, and with that data, propose it back to the community. But is not about delivering numbers and raw data, it is about translating the meaning of those numbers into experiences, because understanding that translation will allow to create stronger bonds within the community and resilient teams. 
+
+<p>Therefore, building continuous feedback loops with the community, stakeholders and resilient teams is essential. It needs to be both objective and subjective; the resilient teams needs to understand the subjective opinions, analyze them, get insights, and with that data, propose it back to the community. But is not about delivering numbers and raw data, it is about translating the meaning of those numbers into experiences, because understanding that translation will allow to create stronger bonds within the community and resilient teams.</p>
 
 
 ---
@@ -30,7 +36,7 @@ Therefore, building continuous feedback loops with the community, stakeholders a
 	
 <h3 class="">Carlos Ortega</h3>
 
-<p class="pull-left col-md-3"><img class="img-responsive img-circle" src="/images/2014-04-07-design-everyone/carlos.jpg" alt="Carlos"/></p>
+<p class="pull-left col-md-2"><img class="img-responsive img-circle" src="/images/2014-04-07-design-everyone/carlos.jpg" alt="Carlos"/></p>
 
 <p>
 
