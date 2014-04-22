@@ -4,6 +4,10 @@ categories:
 - project
 title: "Free Sample Architecture"
 date: 2014-10-07
+header-image:
+project-image:
+tagline: <em>Foster agency and embrace democratic design through welcoming, hands-on access to design processes, available directly to the inhabitants of public spaces.</em>
+video-interview: 
 ---
 
 Free sample architecture is a design methodology that sparks new communication pathways. It uses design interventions as a conversational icebreaker between designers, the authorities who manage public space, and the many people who experience it.
@@ -16,7 +20,7 @@ A democratic process of identifying what people need at a site has the potential
 
 Initial reactions to a prototype begin to contributes to ongoing development of a project. Because designers can often gain access to the authorities who control public spaces, designers must be informed about the desires of a space’s users.  If designers are more aware of what the public craves in a space, they can become mediators between those with the power to make the changes and the impacted public. 
 
-Project done by: 
+Author
 
 Kristen Moreau
 

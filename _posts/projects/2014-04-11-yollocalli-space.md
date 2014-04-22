@@ -4,12 +4,16 @@ categories:
 - project
 title: "Yollocalli Teen Space"
 date: 2014-11-07
+header-image:
+project-image:
+tagline: <em>Artists working in collaboration with community members, to figuratively, literally, and critically reimagine, the spaces around us.</em>
+video-interview:
 ---
 
 Quilting Chicago is a public art project that critically and creatively engages community stakeholders in issues of public space within the city of Chicago.  Working in partnership with Chicago Public Schools, we are creating a large-scale, modular mural which will temporarily cover the facade of the abandoned substation at 10 East Lake Street in the Loop.  The purpose of the mural is three-fold:  first, it will create opportunities for youth artistic expression and reflection; second, it will articulate our citizens needs in an elegant and artistic manner; finally, it will beautify and become a point of interest at an underused but central location. 
 
 
-Project done by: 
+Authors
 
 William Estrada 
 

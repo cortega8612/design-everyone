@@ -4,12 +4,17 @@ categories:
 - project
 title: "10 East Lake Street reinvented"
 date: 2014-11-07
+header-image:
+project-image:
+tagline: <em>10 East Lake Street Reinvented, begins the conversation about the reinvention of underutilized public space through a sustainability, technology and culture.</em>
+video-interview: 
 ---
 
 10 East Lake Street reinvented begins the conversation about the adaptive reuse of underutilized public space and maintaining community integrity through a sustainable, energy efficient, technologically innovative, and culturally significant project. This project will present a model for public space which will bring together the arts, education, culture, planning, preservation, and sustainability for the public good.
 
+While in the GFRY Studio I focused on documenting, assessing, and proposing an adaptive reuse recommendation for the existing building at 10 East Lake Street. I also used this location as a case study to create a Community Checklist (below), based on the studio’s efforts to reinvent 10 East Lake Street, for community members who are interested in maintaining community integrity and values through existing infrastructure.
 
-Project done by: 
+Author
 
 Erica Ruggiero
 

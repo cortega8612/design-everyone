@@ -4,6 +4,10 @@ categories:
 - project
 title: "Art/design toolkit for collaborative explorations of public space"
 date: 2014-11-07
+header-image:
+project-image:
+tagline: <em>An open-ended inquiry to re-imagine the design process through arts and design research workshops, to create community engagements, identify common concerns and experiment with reflective interventions.</em>
+video-interview:
 ---
 
 A collection of strategies and tactics for:
@@ -15,7 +19,7 @@ A collection of strategies and tactics for:
 5. The identification of issues central for the construction of longer community engagement.
 6. Transition to community organizing, and transformation.
 
-Project done by:
+Author
 
 Alvaro Amat
 

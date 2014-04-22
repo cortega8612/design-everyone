@@ -5,16 +5,27 @@ layout: default
 <hr/>
 
 
-<h1 class="">GFRY Studio 2013-2014 projects.</h1>
+<h1>GFRY Studio 2013-2014 projects.</h1>
 
 <hr/>
 
 <h3 class="lead"><em>A platform for proposals.</em></h3>
 
 
-
 {% for post in site.categories['project'] %}
-  <h4><a href='{{ site.base_url }}{{post.url}}'>{{post.title}}</a></h4>
+
+<div class="well col-md-12">
+
+  <h4>
+  	
+  	<dl><a href='{{ site.base_url }}{{post.url}}'>
+  	<dd>{{post.title}}</dd>
+  	<dd>{{post.tagline}}</dd> 
+  	</a></dl>
+
+  	</h4>
+
+</div>
 
 
 {% endfor %}

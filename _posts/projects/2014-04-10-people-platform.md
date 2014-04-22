@@ -4,11 +4,18 @@ categories:
 - project
 title: "People's Platform"
 date: 2014-11-07
+header-image:
+project-image:
+tagline: <em>A device that will encourage people to interact with each other in a more meaningful way.</em>
+video-interview:
 ---
 
-People's platform is a surface that activates every time some one-steps on top of it. The main idea is to visualize people’s interaction and displacement over a specific place. My goal is that this device will encourage people/users to interact with each other in a more meaningful way. 
+The main idea behind my project is to find, or “define” what is the community around the loop that is interested in rethinking public space. Who is truly invested in making a meaningful impact in the way people interact in the loop outside of privet investors and students. In a sense, it is an intervention to make people reflect upon the idea of how public space defines community and vice versa. 
 
-Project done by: 
+On of the key components of my project is the use of piezoelectric sensors that respond to changes in pressure. I am particularly interested in this kind of technology because the principal of piezoelectricity indicates that such an electric charge is very common in organic materials such as proteins, bone structures and even DNA. This singular characteristic suggests a connection between the individuals that use the platform and the technology that is underneath. No other type of sensor or electronic device capable of tracking human interaction has such a biological connection with the user. Besides that, the mechanical motion applied to the surface implies direct physical contact between the user and the technology. 
+
+
+Author
 
 Luis Francisco
 
