@@ -8,25 +8,27 @@ layout: default
 <h1>GFRY Studio 2013-2014 projects.</h1>
 
 <hr/>
+<br/>
 
 <h3 class="lead"><em>A platform for proposals.</em></h3>
 
 
 {% for post in site.categories['project'] %}
 
-<div class="well col-md-12">
+<div class="row well">
 
-  <h4>
-  	
-  	<dl><a href='{{ site.base_url }}{{post.url}}'>
-  	<dd>{{post.title}}</dd>
-  	<dd>{{post.tagline}}</dd> 
-  	</a></dl>
 
-  	</h4>
-
+  <div class="col-md-2">
+  	<img class="img-responsive img-thumbnail" src="{{post.preview-image}}" alt='{{post.title}}'/>
+  </div>
+<div class="col-md-8">
+	<h3>
+  		<a href='{{ site.base_url }}{{post.url}}'>{{post.title}}</a>
+  	</h3>
+  <p>{{post.tagline}}</p>
 </div>
 
+</div>
 
 {% endfor %}
 

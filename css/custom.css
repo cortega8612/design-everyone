@@ -3,7 +3,22 @@ body {
   font-size: 18px;
 }
 
+a, a:hover {
+color: #196D92;
+}
+
 h1, h2, h3 { padding-top: 70px; margin-top: -70px; }
+
+.navbar-header>.navbar-brand, .navbar-inverse .navbar-nav>li>a {color: #196D92; }
+
+#logo img { margin: 5px 0 5px 0;}
+
+.navbar-inverse {background-color: #FFFFFF}
+
+
 
 .pull-left img { margin-right: 20px; }
 
+.project img {margin-top: 20px; margin-bottom: 20px;}
+
+.img-author {margin: 0;}

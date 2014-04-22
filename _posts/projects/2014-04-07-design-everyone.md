@@ -4,13 +4,13 @@ categories:
 - project
 title: "Feedback Loops"
 date: 2014-04-07
-header-image:
+preview-image: /images/2014-04-07-design-everyone/sitemap.jpg
 project-image:
 tagline: <em>Design is meant to be a public space, translating languages among disciplines.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 ---
 
-<!--Ask Derek about the column for text to be narrower and the option of making text to be a paragraph-->
+<!--Ask about the column for text to be narrower and the option of making text to be a paragraph-->
 
 <p class="col-md-8 col-md-offset-2"> This project reframes the traditional Design practice, from an object-oriented discipline to a design network system that hubs accessible solutions for all people interested in public spaces development; fostering complex solutions to solve complicated problems through knowledge, collaboration and accessible language/s. 
 
@@ -31,13 +31,11 @@ The necessity of feedback at any creative process is vital, since the scope is b
 
 <p class="col-md-8 col-md-offset-2">Therefore, building continuous feedback loops with the community, stakeholders and resilient teams is essential. It needs to be both objective and subjective; the resilient teams needs to understand the subjective opinions, analyze them, get insights, and with that data, propose it back to the community. But is not about delivering numbers and raw data, it is about translating the meaning of those numbers into experiences, because understanding that translation will allow to create stronger bonds within the community and resilient teams. </p>
 
----
-
 <h2 class="col-md-10 col-md-offset-2">Author</h2>
 	
 <h3 class="col-md-12 col-md-offset-2">Carlos Ortega</h3>
 
-<p  class="col-md-2"><img class="img-responsive img-circle" src="/images/2014-04-07-design-everyone/carlos.jpg" alt="Carlos"/></p>
+<p  class="col-md-2"><img class="img-responsive img-circle img-author" src="/images/2014-04-07-design-everyone/carlos.jpg" alt="Carlos"/></p>
 
 <!--Ask about the responsive bio image-->
 
@@ -46,4 +44,3 @@ The necessity of feedback at any creative process is vital, since the scope is b
 </p>
 
 
-<hr/>
