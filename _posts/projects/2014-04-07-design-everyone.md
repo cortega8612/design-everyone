@@ -4,6 +4,7 @@ categories:
 - project
 title: "Feedback Loops"
 date: 2014-04-07
+type: thinker
 preview-image: /images/2014-04-07-design-everyone/sitemap.jpg
 project-image:
 tagline: <em>Design is meant to be a public space, translating languages among disciplines.</em>

@@ -4,6 +4,7 @@ categories:
 - project
 title: "Yollocalli Teen Space"
 date: 2014-11-07
+type: educator
 header-image:
 project-image:
 tagline: <em>Artists working in collaboration with community members, to figuratively, literally, and critically reimagine, the spaces around us.</em>

@@ -4,6 +4,7 @@ categories:
 - project
 title: "Art/design toolkit for collaborative explorations of public space"
 date: 2014-11-07
+type: thinker
 header-image:
 project-image:
 tagline: <em>An open-ended inquiry to re-imagine the design process through arts and design research workshops, to create community engagements, identify common concerns and experiment with reflective interventions.</em>

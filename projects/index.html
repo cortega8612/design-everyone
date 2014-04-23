@@ -8,27 +8,36 @@ layout: default
 <h1>GFRY Studio 2013-2014 projects.</h1>
 
 <hr/>
-<br/>
 
 <h3 class="lead"><em>A platform for proposals.</em></h3>
 
+	<button type="button" class="btn btn-default" id="btn-all">All</button>
+	<button type="button" class="btn btn-default" id="btn-thinker">Thinker</button>
+	<button type="button" class="btn btn-default" id="btn-maker">Maker</button>
+	<button type="button" class="btn btn-default" id="btn-educator">Educator</button>
 
+<br/>
+
+<div id="project-list">
 {% for post in site.categories['project'] %}
 
-<div class="row well">
+	<div class="row well project-item {{post.type}}">
 
+	  <div class="col-md-4">
+	  	<img class="img-responsive img-thumbnail" src="{{post.preview-image}}" alt='{{post.title}}'/>
+	  </div>
 
-  <div class="col-md-2">
-  	<img class="img-responsive img-thumbnail" src="{{post.preview-image}}" alt='{{post.title}}'/>
-  </div>
-<div class="col-md-8">
-	<h3>
-  		<a href='{{ site.base_url }}{{post.url}}'>{{post.title}}</a>
-  	</h3>
-  <p>{{post.tagline}}</p>
-</div>
+	  <div class="col-md-8">
+		<h3>
+	  		<a href='{{ site.base_url }}{{post.url}}' class="title">{{post.title}}</a>
+	  	</h3>
 
-</div>
+	  <p>{{post.tagline}}</p>
+	  <p>Type: {{post.type}}</p>
+	  </div>
+
+	</div>
 
 {% endfor %}
 
+</div>

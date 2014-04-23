@@ -4,9 +4,10 @@ categories:
 - project
 title: "10 East lake Street - Documentary Film"
 date: 2014-04-21
+type: thinker
 header-image:
 project-image:
-tagline: <em>A film to share real stories and ideas, as visionaries with a keen interest in urban planning.</em>
+tagline: <em>A film to share real stories and ideas, as visionaries with a keen interest in urban planning and blabalbalbal.</em>
 video-interview:
 ---
 

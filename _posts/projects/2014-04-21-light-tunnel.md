@@ -4,6 +4,7 @@ categories:
 - project
 title: "Light Tunnel Project"
 date: 2014-11-21
+type: maker
 header-image:
 project-image:
 tagline: <em>Well designed public space must allows the users to interact with the environment and the people around them regar- less of age, income level, cultural background, or social status.</em>

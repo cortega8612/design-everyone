@@ -4,6 +4,7 @@ categories:
 - project
 title: "City Screen"
 date: 2014-04-04
+type: maker
 header-image:
 project-image:
 tagline: <em>Democratic participatory design for public access and education for sustainability and green technology.</em>

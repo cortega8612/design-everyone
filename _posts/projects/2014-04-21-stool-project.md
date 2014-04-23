@@ -4,6 +4,7 @@ categories:
 - project
 title: "Stool Project"
 date: 2014-04-21
+type: maker
 header-image:
 project-image:
 tagline: <em>--missing-.</em>

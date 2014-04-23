@@ -4,6 +4,7 @@ categories:
 - project
 title: "10 East Lake Street reinvented"
 date: 2014-11-07
+type: maker
 header-image:
 project-image:
 tagline: <em>Encouraging the conversation about the reinvention of underutilized public space through a sustainability, technology and culture.</em>

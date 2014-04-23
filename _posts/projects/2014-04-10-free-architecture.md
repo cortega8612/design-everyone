@@ -4,6 +4,7 @@ categories:
 - project
 title: "Free Sample Architecture"
 date: 2014-10-07
+type: maker
 header-image:
 project-image:
 tagline: <em>Foster agency and embrace democratic design through welcoming, hands-on access to design processes, available directly to the inhabitants of public spaces.</em>

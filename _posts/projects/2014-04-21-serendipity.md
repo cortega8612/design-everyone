@@ -4,6 +4,7 @@ categories:
 - project
 title: "The Miniature Chicago"
 date: 2014-04-21
+type: maker
 header-image:
 project-image:
 tagline: <em>The moment of serendipity; harmoniously curated sensory experiences to evoke new emotions.</em>

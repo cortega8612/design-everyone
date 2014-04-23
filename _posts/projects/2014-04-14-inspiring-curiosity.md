@@ -4,6 +4,7 @@ categories:
 - project
 title: "Inspiring Curiosity"
 date: 2014-04-14
+type: maker
 header-image:
 project-image:
 tagline: <em>Inspire curiosity, playfulness and unique experiences, giving visitors a more intimate relationship with public spaces.</em>

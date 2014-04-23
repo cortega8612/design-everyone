@@ -4,6 +4,7 @@ categories:
 - project
 title: "People's Platform"
 date: 2014-11-07
+type: maker
 header-image:
 project-image:
 tagline: <em>A device that will encourage people to interact with each other in a more meaningful way.</em>

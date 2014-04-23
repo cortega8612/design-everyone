@@ -94,6 +94,27 @@
     <script src="/js/jquery-1.10.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/analytics_lib.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+
+    <script>
+      var $container = $('#project-list');
+      // init
+      $container.isotope({
+        // options
+        itemSelector: '.project-item',
+        getSortData: {
+          title: '.title'
+        },
+        sortBy : 'title',
+        layoutMode: 'vertical'
+      });
+
+      $("#btn-all").on("click", function(){ $container.isotope({ filter: '*' }) });
+      $("#btn-thinker").on("click", function(){ $container.isotope({ filter: '.thinker' }) });
+      $("#btn-maker").on("click", function(){ $container.isotope({ filter: '.maker' }) });
+      $("#btn-educator").on("click", function(){ $container.isotope({ filter: '.educator' }) });
+    </script>
+
 
   </body>
 </html>
