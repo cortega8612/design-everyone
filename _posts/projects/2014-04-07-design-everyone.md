@@ -13,10 +13,10 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <!--Ask about the column for text to be narrower and the option of making text to be a paragraph-->
 
+
 <p class="col-md-8 col-md-offset-2"> This project reframes the traditional Design practice, from an object-oriented discipline to a design network system that hubs accessible solutions for all people interested in public spaces development; fostering complex solutions to solve complicated problems through knowledge, collaboration and accessible language/s. 
 
 The developing project is currently is in two stages: the educational and “real world” perspective, mainly focused on the building of teams that will be able to create complex solutions. Instead of looking at design as a discipline that will provide the solution to problems, design should be seen as the tool to create the necessary translations between disciplines: a multicultural, trans disciplinary tool that translate through the language of resiliency.</p>
-
 
 <p class="col-md-12"><img class="img-responsive img-thumbnail" src="/images/2014-04-07-design-everyone/loops.jpg" alt="Loops"/></p>
 
