@@ -94,6 +94,8 @@
 
     <script>
       var $container = $('#project-list');
+      //isInit 
+      isInitLayout: false
       // init
       $container.isotope({
         // options
@@ -101,7 +103,7 @@
         getSortData: {
           title: '.title'
         },
-        sortBy : 'title',
+        sortBy : 'random',
         layoutMode: 'vertical'
       });
 

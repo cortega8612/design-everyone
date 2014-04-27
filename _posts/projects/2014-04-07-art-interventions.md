@@ -34,7 +34,7 @@ A collection of strategies and tactics for:
 	
 <h3 class="col-md-12 col-md-offset-2">Alvaro Amat</h3>
 
-<p  class="col-md-2 pull-right"><img class="img-responsive img-circle img-author" src="/images/2014-04-07-art-intervention/alvaro.jpg" alt="Alvaro"/></p>
+<p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-07-art-interventions/alvaro.jpg" alt="Alvaro"/></p>
 
 <p class="col-md-7 col-md-offset-2">
 	I am Exhibition Design Director at The Field Museum since 2006, with over 20 years of experience as an Architect, Designer, Educator and Artist, working in Spain, Mexico and the United States. My work, ranging from buildings to exhibitions, incorporates arts-based research and design as inquiry in the threshold between pedagogy, philosophy, architecture and poetry. With an interest in experimental gatherings to re-envision the space of shared knowledge and the emergence of creative collaboration, I am pursuing a Master of Arts. At the Gfry Studio I want to critically explore the boundaries of democratic participation in the definition of the public space. 

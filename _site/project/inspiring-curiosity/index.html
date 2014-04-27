@@ -95,6 +95,8 @@ As an Industrial Designer, I like to work in a variety of media. By emphasizing 
 
     <script>
       var $container = $('#project-list');
+      //isInit 
+      isInitLayout: false
       // init
       $container.isotope({
         // options
@@ -102,7 +104,7 @@ As an Industrial Designer, I like to work in a variety of media. By emphasizing 
         getSortData: {
           title: '.title'
         },
-        sortBy : 'title',
+        sortBy : 'random',
         layoutMode: 'vertical'
       });
 

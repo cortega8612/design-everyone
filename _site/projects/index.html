@@ -51,15 +51,12 @@
 
     <div class="container">
       <div class='col-md-12'>
-          <hr/>
-
-
-<h1>GFRY Studio 2013-2014 projects.</h1>
+          <p>
+	<h1>GFRY Studio 2013-2014 projects.</h1>
+	<h3 class="lead"><em>A platform for proposals.</em></h3>
+</p>
 
 <hr/>
-
-<h3 class="lead"><em>A platform for proposals.</em></h3>
-
 
 	<button type="button" class="btn btn-default" id="btn-all">All</button>
 	<button type="button" class="btn btn-default" id="btn-thinker">Thinker</button>
@@ -280,19 +277,19 @@
 
 
 
-	<div class="row well project-item thinker">
+	<div class="row well project-item maker">
 
 	  <div class="col-md-4">
-	  	<img class="img-responsive img-thumbnail" src="/images/2014-04-25-canopy/module-site.jpg" alt='FWeather-Adaptive Structures'/>
+	  	<img class="img-responsive img-thumbnail" src="/images/2014-04-25-canopy/module-site.jpg" alt='Weather-Adaptive Structures'/>
 	  </div>
 
 	  <div class="col-md-8">
 		<h3>
-	  		<a href='/project/canopy' class="title">FWeather-Adaptive Structures</a>
+	  		<a href='/project/canopy' class="title">Weather-Adaptive Structures</a>
 	  	</h3>
 
 	  <p><em>Connecting visitors with natural systems and propose methods for harnessing natural resources.</em></p>
-	  <p>Type: thinker</p>
+	  <p>Type: maker</p>
 	  </div>
 
 	</div>
@@ -337,6 +334,8 @@
 
     <script>
       var $container = $('#project-list');
+      //isInit 
+      isInitLayout: false
       // init
       $container.isotope({
         // options
@@ -344,7 +343,7 @@
         getSortData: {
           title: '.title'
         },
-        sortBy : 'title',
+        sortBy : 'random',
         layoutMode: 'vertical'
       });
 

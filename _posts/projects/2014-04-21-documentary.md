@@ -25,7 +25,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 	
 <h3 class="col-md-12 col-md-offset-2">Tony Smith</h3>
 
-<p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-21-documentary/tony.jpg" alt="Tony"/></p>
+<p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-21-documentary/tony2.jpg" alt="Tony"/></p>
 
 <p class="col-md-7 col-md-offset-2">
 -missing

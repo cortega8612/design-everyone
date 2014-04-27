@@ -24,7 +24,7 @@ Initial reactions to a prototype begin to contributes to ongoing development of 
 
 <h2 class="col-md-10 col-md-offset-2">Author</h2>
 	
-<h3 class="col-md-12 col-md-offset-2">Carlos Ortega</h3>
+<h3 class="col-md-12 col-md-offset-2">Kristen Moreau</h3>
 
 <p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-10-free-architecture/kristen.jpg" alt="Kristen"/></p>
 

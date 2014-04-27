@@ -4,18 +4,16 @@ body {
 }
 
 a, a:hover {
-color: #196D92;
+color: #00aaee;
 }
 
 h1, h2, h3 { padding-top: 70px; margin-top: -70px; }
 
-.navbar-header>.navbar-brand, .navbar-inverse .navbar-nav>li>a {color: #196D92; }
+.navbar-header>.navbar-brand, .navbar-inverse .navbar-nav>li>a {color: #00aaee;}
 
-#logo img { margin: 5px 0 5px 0;}
+#logo img { margin: 5px 0 3px 0;}
 
-.navbar-inverse {background-color: #FFFFFF}
-
-.footer {background-color: #FFFFFF}
+.navbar-inverse {background-color: #FFFFFF;}
 
 
 .pull-left img { margin-right: 20px; }

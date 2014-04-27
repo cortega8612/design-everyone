@@ -100,6 +100,8 @@ The necessity of feedback at any creative process is vital, since the scope is b
 
     <script>
       var $container = $('#project-list');
+      //isInit 
+      isInitLayout: false
       // init
       $container.isotope({
         // options
@@ -107,7 +109,7 @@ The necessity of feedback at any creative process is vital, since the scope is b
         getSortData: {
           title: '.title'
         },
-        sortBy : 'title',
+        sortBy : 'random',
         layoutMode: 'vertical'
       });
 

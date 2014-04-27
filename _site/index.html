@@ -85,7 +85,7 @@
 
   <h4><a href='/project/design-everyone'>Feedback Loops</a></h4>
 
-  <h4><a href='/project/canopy'>FWeather-Adaptive Structures</a></h4>
+  <h4><a href='/project/canopy'>Weather-Adaptive Structures</a></h4>
 
   <h4><a href='/project/city-screen'>City Screen</a></h4>
 
@@ -111,6 +111,8 @@
 
     <script>
       var $container = $('#project-list');
+      //isInit 
+      isInitLayout: false
       // init
       $container.isotope({
         // options
@@ -118,7 +120,7 @@
         getSortData: {
           title: '.title'
         },
-        sortBy : 'title',
+        sortBy : 'random',
         layoutMode: 'vertical'
       });
 
