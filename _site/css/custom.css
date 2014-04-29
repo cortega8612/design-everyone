@@ -16,12 +16,79 @@ margin-top: 7px}
 
 .navbar-inverse {background-color: #FFFFFF;}
 
-.footer {background-color: #FFFFFF;}
+.footer {
+	width: 100%;
+	background-color: #CCC;
+	height: 50px;
+	border-top: 2px #000 solid;
+}
+
+.footer p{
+	padding-top: 10px;
+}
 
 
 .pull-left img { margin-right: 20px; }
 
 .project img {margin-top: 20px; margin-bottom: 20px;}
 
+.label-thinker {
+	color: #ffffff;
+	background-color: #CC0000;
+	border-color: #CC0000;}
+
+.label-maker {
+	color: #ffffff;
+	background-color: #00CC00;
+	border-color: #00CC00;}
+
+.label-educator {
+	color: #ffffff;
+	background-color: #0000CC;
+	border-color: #0000CC;}
+
+
 .img-author {margin: 0;}
+
+
+/* Isotope Transitions
+------------------------------- */
+.isotope,
+.isotope .item {
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:         top, left, opacity;
+          transition-property:         transform, opacity;
+}
+  
+  
+/* responsive media queries */
+
+@media (max-width: 768px) {
+ 
+  .isotope .item {
+    position: static ! important;
+    -webkit-transform: translate(0px, 0px) ! important;
+       -moz-transform: translate(0px, 0px) ! important;
+            transform: translate(0px, 0px) ! important;
+  }
+}
+
 

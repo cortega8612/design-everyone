@@ -11,9 +11,9 @@ layout: default
 <hr/>
 
 	<button type="button" class="btn btn-default" id="btn-all">All</button>
-	<button type="button" class="btn btn-default" id="btn-thinker">Thinker</button>
-	<button type="button" class="btn btn-default" id="btn-maker">Maker</button>
-	<button type="button" class="btn btn-default" id="btn-educator">Educator</button>
+	<button type="button" class="btn label-thinker" id="btn-thinker">Thinker</button>
+	<button type="button" class="btn label-maker" id="btn-maker">Maker</button>
+	<button type="button" class="btn label-educator" id="btn-educator">Educator</button>
 
 <br/>
 
@@ -32,12 +32,10 @@ layout: default
 	  	</h3>
 
 	  <p>{{post.tagline}}</p>
-	  <p>Type: {{post.type}}</p>
+	  <p>Type: <span class="label label-{{post.type}}">{{post.type}}</span></p>
+
 	  </div>
-
 	</div>
-
 {% endfor %}
 
 </div>
-<hr/>

@@ -53,12 +53,16 @@
       <div class='col-md-12'>
           {{content}}
       </div>
-
-      <div class="footer">
-        <p class='pull-right'>&copy; Carlos Ortega, <a href='http://saic.edu'>School of the Art Institute of Chicago</a>, and <a href='http://datamade.us'>DataMade</a></p>
-      </div>
+<div class="clearfix"></div>
+<hr/>
+      
     </div> <!-- /container -->
 
+<div class="footer">
+  <div class="container">
+        <p class='pull-right'>&copy; Carlos Ortega, <a href='http://saic.edu'>School of the Art Institute of Chicago</a>, and <a href='http://datamade.us'>DataMade</a></p>
+  </div>      
+</div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -67,20 +71,19 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/analytics_lib.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
+     <script src="/js/imagesLoaded.js"></script>
 
     <script>
-      var $container = $('#project-list');
-      //isInit 
-      isInitLayout: false
-      // init
-      $container.isotope({
-        // options
-        itemSelector: '.project-item',
-        getSortData: {
-          title: '.title'
-        },
-        sortBy : 'random',
-        layoutMode: 'vertical'
+      var $container = $('#project-list').imagesLoaded( function(){
+        $container.isotope({
+          // options
+          itemSelector: '.project-item',
+          getSortData: {
+            title: '.title'
+          },
+          sortBy : 'random',
+          layoutMode: 'masonry'
+        });
       });
 
       $("#btn-all").on("click", function(){ $container.isotope({ filter: '*' }) });
