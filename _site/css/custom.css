@@ -9,14 +9,22 @@ color: #00aaee;
 
 h1, h2, h3 { padding-top: 70px; margin-top: -70px; }
 
+h2 {
+ color: #4E4F4A;
+ font-family: Minion;
+}
+
 .navbar-header>.navbar-brand, .navbar-inverse .navbar-nav>li>a {color: #00aaee;
-margin-top: 7px}
+margin-top: 7px;
+
+}
 
 #logo img { margin: 5px 0 3px 0;}
 
 .navbar-inverse {background-color: #FFFFFF;}
 
 .footer {
+  position: absolute;
 	width: 100%;
 	background-color: #1A6E93;
 	height: 50px;
@@ -28,25 +36,24 @@ margin-top: 7px}
   color: #CCC;
 }
 
-
 .pull-left img { margin-right: 20px; }
 
 .project img {margin-top: 20px; margin-bottom: 20px;}
 
 .label-thinker {
 	color: #ffffff;
-	background-color: #CC0000;
-	border-color: #CC0000;}
+	background-color: #9D2628;
+	border-color: #9D2628;}
 
 .label-maker {
 	color: #ffffff;
-	background-color: #00CC00;
-	border-color: #00CC00;}
+	background-color: #474641;
+	border-color: #474641;}
 
 .label-educator {
 	color: #ffffff;
-	background-color: #0000CC;
-	border-color: #0000CC;}
+	background-color: #1C314E;
+	border-color: #1C314E;}
 
 
 .img-author {margin: 0;}

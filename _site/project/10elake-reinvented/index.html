@@ -90,7 +90,18 @@ As a designer and preservationist, I believe great design stems from a foundatio
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/analytics_lib.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
-     <script src="/js/imagesLoaded.js"></script>
+    <script src="/js/imagesLoaded.js"></script>
+    <script src="plugins/flickr/galleria.flickr.min.js"></script>
+
+    <script> 
+
+      var flickr = new Galleria.Flickr();
+    flickr.search('Italy', function(data) {
+    Galleria.run('.galleria', {
+        dataSource: data
+      });
+    });
+    </script>
 
     <script>
       var $container = $('#project-list').imagesLoaded( function(){

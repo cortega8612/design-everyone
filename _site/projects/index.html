@@ -52,8 +52,7 @@
     <div class="container">
       <div class='col-md-12'>
           <div>
-	<h1>GFRY Studio 2013-2014 Projects.</h1>
-		<h3 class="lead"><em>A platform for proposals.</em></h3>
+	<h2>GFRY Studio 2013-2014. <em>A platform for proposals.</em></h2>
 			<p> THis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraphTHis is test for paragraph
 			</p>
 </div>
@@ -324,7 +323,18 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/analytics_lib.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
-     <script src="/js/imagesLoaded.js"></script>
+    <script src="/js/imagesLoaded.js"></script>
+    <script src="plugins/flickr/galleria.flickr.min.js"></script>
+
+    <script> 
+
+      var flickr = new Galleria.Flickr();
+    flickr.search('Italy', function(data) {
+    Galleria.run('.galleria', {
+        dataSource: data
+      });
+    });
+    </script>
 
     <script>
       var $container = $('#project-list').imagesLoaded( function(){

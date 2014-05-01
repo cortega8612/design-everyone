@@ -51,9 +51,18 @@
 
     <div class="container">
       <div class='col-md-12'>
-          <p class="col-md-12"></p>
+          <div>
+	<h1 class="col-md-12">Publi©ity/GFRY Studio:<em>"a timeline for 10 East Lake"</em></h1>
 
-<h1>Publi©ity/GFRY Studio:<em>"a timeline for 10 East Lake"</em></h1>
+	<h2 class="col-md-12">Calling for artists, designers and educators....</h2>
+</div>
+
+<div>
+	<p> PUBLICITY mission is to develop multicultural public spaces in the Chicago Area, encouraging: social justice, diversity, equality, education, art stimulation and establishment of dynamic green spaces. </p>
+
+	<p>  Mission is to develop multicultural public spaces in the Chicago Area, encouraging: social justice, diversity, equality, education, art stimulation and establishment of dynamic green spaces. </p>
+
+</div>
 
 <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AtO19aYta5PzdC1YV0k1djNndjNmUmJvUmdFeGtqZlE&font=NixieOne-Ledger&maptype=toner&lang=en&start_zoom_adjust=2&height=650' width='100%' height='650' frameborder='0'></iframe>
 
@@ -111,7 +120,18 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/analytics_lib.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
-     <script src="/js/imagesLoaded.js"></script>
+    <script src="/js/imagesLoaded.js"></script>
+    <script src="plugins/flickr/galleria.flickr.min.js"></script>
+
+    <script> 
+
+      var flickr = new Galleria.Flickr();
+    flickr.search('Italy', function(data) {
+    Galleria.run('.galleria', {
+        dataSource: data
+      });
+    });
+    </script>
 
     <script>
       var $container = $('#project-list').imagesLoaded( function(){
