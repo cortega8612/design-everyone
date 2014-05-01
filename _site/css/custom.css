@@ -18,13 +18,14 @@ margin-top: 7px}
 
 .footer {
 	width: 100%;
-	background-color: #CCC;
+	background-color: #1A6E93;
 	height: 50px;
-	border-top: 2px #000 solid;
+	border-top: 2px #FFFFFF solid;
 }
 
 .footer p{
 	padding-top: 10px;
+  color: #CCC;
 }
 
 
