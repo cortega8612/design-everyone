@@ -23,7 +23,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <h2 class="col-md-10 col-md-offset-2">Author</h2>
 	
-<h3 class="col-md-12 col-md-offset-2">Tony Smith</h3>
+<h3 class="col-md-10 col-md-offset-2">Tony Smith</h3>
 
 <p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-21-documentary/tony2.jpg" alt="Tony"/></p>
 

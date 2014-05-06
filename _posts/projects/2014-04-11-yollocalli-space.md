@@ -17,14 +17,14 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <h2 class="col-md-10 col-md-offset-2">Author</h2>
 	
-<h3 class="col-md-12 col-md-offset-2">William Estrada</h3>
+<h3 class="col-md-10 col-md-offset-2">William Estrada</h3>
 
 <p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-11-yollocalli-space/william.jpg" alt="William"/></p>
 
 <p class="col-md-7 col-md-offset-2">
 William is currently pursuing his Masters of Arts in Art Education (2015) and received his Bachelors of Fine Arts in Art Education (2000) from the School of the Art Institute of Chicago. He has worked with community organizations since 1998 and continues to participate in various community projects in the Chicago land area. William’s participation in GFRY Studio stems from his interest and constant discussion with people who are marginalized and deal with racism, displacement, media inequality, cultural preservation, misrepresentation, historical passivity, and other matters affecting our communities.</p>
 
-<h3 class="col-md-12 col-md-offset-2">Moeko Crider</h3>
+<h3 class="col-md-10 col-md-offset-2">Moeko Crider</h3>
 
 <p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-11-yollocalli-space/moeko.jpg" alt="Moeko"/></p>
 
@@ -32,7 +32,7 @@ William is currently pursuing his Masters of Arts in Art Education (2015) and re
 I am an artist and educator whose work is dedicated to bringing social change through community-based youth media and public art projects. I am currently pursuing a Master of Arts in Art Education at the School of the Art Institute of Chicago. Prior to this, I worked for almost a decade teaching film, photography, radio production, and visual art in a number of different community settings. I most recently ended a three-year position at Creative Action, running daily after-school art mentorship programs at underserved public schools. I have also served as the Youth Radio Producer at Texas Folklife and the Program Coordinator for Longhouse Media’s Native Lens program, among other positions. The projects I have collaborated on with my students have been screened on television, at international film festivals, NPR and other public radio affiliates, and in galleries and museums throughout the US, including an extended exhibition at the Smithsonian National Museum of the American Indian.</p>
  
 
-<h3 class="col-md-12 col-md-offset-2">Brendan John Hudson</h3>
+<h3 class="col-md-10 col-md-offset-2">Brendan John Hudson</h3>
 
 <p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-11-yollocalli-space/brendan.jpg" alt="Brendan"/></p>
 
