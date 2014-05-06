@@ -93,15 +93,15 @@ I am a muralist, community arts facilitator, artist, educator and a student in t
     <script src="/js/analytics_lib.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
     <script src="/js/imagesLoaded.js"></script>
-    <script src="plugins/flickr/galleria.flickr.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="/js/galleria.flickr.min.js"></script>
 
     <script> 
-
-      var flickr = new Galleria.Flickr();
-    flickr.search('Italy', function(data) {
     Galleria.run('.galleria', {
-        dataSource: data
-      });
+    flickr: 'set:72157635747563693',
+    flickrOptions: {
+        sort: 'date-posted-asc'
+    }
     });
     </script>
 
