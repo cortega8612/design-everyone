@@ -5,7 +5,7 @@ categories:
 title: "City Screen"
 date: 2014-04-04
 type: maker
-preview-image: /images/2014-04-10-city-screen/city-light-thumb.jpg
+preview-image: /images/2014-04-10-city-screen/city-light_copy.jpg
 project-image:
 tagline: <em>Democratic participatory design for public access and education for sustainability and green technology.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

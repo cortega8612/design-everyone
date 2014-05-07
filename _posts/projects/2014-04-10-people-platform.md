@@ -5,7 +5,7 @@ categories:
 title: "People's Platform"
 date: 2014-11-07
 type: maker
-preview-image: /images/2014-04-10-people-platform/walk-platform.jpg
+preview-image: /images/2014-04-10-people-platform/walk-platform_copy.jpg
 project-image:
 tagline: <em>A device that will encourage people to interact with each other in a more meaningful way.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

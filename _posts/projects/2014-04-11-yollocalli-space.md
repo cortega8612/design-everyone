@@ -5,7 +5,7 @@ categories:
 title: "Yollocalli Teen Space"
 date: 2014-11-07
 type: educator
-preview-image: /images/2014-04-11-yollocalli-space/quilt.jpg
+preview-image: /images/2014-04-11-yollocalli-space/quilt_copy.jpg
 project-image:
 tagline: <em>Artists working in collaboration with community members, to figuratively, literally, and critically reimagine, the spaces around us.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -5,7 +5,7 @@ categories:
 title: "10 East Lake Street reinvented"
 date: 2014-11-07
 type: maker
-preview-image: /images/2014-04-11-10elake-reinvented/10lake-thumb.jpg
+preview-image: /images/2014-04-11-10elake-reinvented/10lake_copy.jpg
 project-image:
 tagline: <em>Encouraging the conversation about the reinvention of underutilized public space through a sustainability, technology and culture.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
