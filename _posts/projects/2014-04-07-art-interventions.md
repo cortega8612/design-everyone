@@ -5,7 +5,7 @@ categories:
 title: "Art/design toolkit for explorations in public space"
 date: 2014-11-07
 type: thinker
-preview-image: /images/2014-04-07-art-interventions/meal_copy.jpg
+preview-image: /images/2014-04-07-art-interventions/meal.jpg
 project-image: 
 tagline: <em>Using performance art interventions and participatory design tools to invite community conversations and inclusive workshops for the exploration and re-imagining of public space.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

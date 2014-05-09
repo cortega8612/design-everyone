@@ -5,7 +5,7 @@ categories:
 title: "(Re)Claiming Space"
 date: 2014-04-21
 type: maker
-preview-image: /images/2014-04-21-reclaiming-space/stool_copy.jpg
+preview-image: /images/2014-04-21-reclaiming-space/stool-thumb.jpg
 project-image:
 tagline: <em>--missing-.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
