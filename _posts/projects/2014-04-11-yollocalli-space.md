@@ -13,7 +13,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <p class="col-md-8 col-md-offset-2"> Quilting Chicago is a public art project that critically and creatively engages community stakeholders in issues of public space within the city of Chicago.  Working in partnership with Chicago Public Schools, we are creating a large-scale, modular mural which will temporarily cover the facade of the abandoned substation at 10 East Lake Street in the Loop.  The purpose of the mural is three-fold:  first, it will create opportunities for youth artistic expression and reflection; second, it will articulate our citizens needs in an elegant and artistic manner; finally, it will beautify and become a point of interest at an underused but central location. </p>
 
-<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-11-yollocalli-space/quilt2.jpg" alt="Yollocalli"/></p>
+<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-11-yollocalli-space/#" alt="Yollocalli"/></p>
 
 <h2 class="col-md-10 col-md-offset-2">Author</h2>
 	
