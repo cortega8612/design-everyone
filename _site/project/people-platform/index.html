@@ -90,26 +90,25 @@
     <script src="/js/analytics_lib.js"></script>
     <script src="/js/isotope.pkgd.min.js"></script>
     <script src="/js/imagesLoaded.js"></script>
-
-
-    <script>
-      var $container = $('#project-list').imagesLoaded( function(){
-        $container.isotope({
-          // options
-          itemSelector: '.project-item',
-          getSortData: {
-            title: '.title'
-          },
-          sortBy : 'random',
-          layoutMode: 'masonry'
+    
+      <script>
+        var $container = $('#project-list').imagesLoaded( function(){
+          $container.isotope({
+            // options
+            itemSelector: '.project-item',
+            getSortData: {
+              title: '.title'
+            },
+            sortBy : 'random',
+            layoutMode: 'masonry'
+          });
         });
-      });
 
-      $("#btn-all").on("click", function(){ $container.isotope({ filter: '*' }) });
-      $("#btn-thinker").on("click", function(){ $container.isotope({ filter: '.thinker' }) });
-      $("#btn-maker").on("click", function(){ $container.isotope({ filter: '.maker' }) });
-      $("#btn-educator").on("click", function(){ $container.isotope({ filter: '.educator' }) });
-    </script>
+        $("#btn-all").on("click", function(){ $container.isotope({ filter: '*' }) });
+        $("#btn-thinker").on("click", function(){ $container.isotope({ filter: '.thinker' }) });
+        $("#btn-maker").on("click", function(){ $container.isotope({ filter: '.maker' }) });
+        $("#btn-educator").on("click", function(){ $container.isotope({ filter: '.educator' }) });
+      </script>
 
   </body>
 </html>
