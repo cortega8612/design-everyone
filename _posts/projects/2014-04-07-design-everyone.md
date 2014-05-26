@@ -18,7 +18,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 The developing project is currently is in two stages: the educational and “real world” perspective, mainly focused on the building of teams that will be able to create complex solutions. Instead of looking at design as a discipline that will provide the solution to problems, design should be seen as the tool to create the necessary translations between disciplines: a multicultural, trans disciplinary tool that translate through the language of resiliency.</p>
 
-<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-07-design-everyone/Loops.jpg" alt="Loops"/></p>
+<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-07-design-everyone/CarlosToolkit.jpg" alt="Loops"/></p>
 
 
 <p class="col-md-8 col-md-offset-2"> Shifting from a position or degree based hierarchy; the teams will be established on a humanistic order, based on experience as expertise. The are not titles or degrees to recognize what is desired in public space, the communities interacts with that public space every day has the same right to decide what to do with it. The training received in education is not meant to decide for others, is meant to listen, synthetize, strategize and design in conjunction with the community.

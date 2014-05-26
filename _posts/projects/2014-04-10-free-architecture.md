@@ -5,7 +5,7 @@ categories:
 title: "Free Sample Architecture"
 date: 2014-10-10
 type: maker
-preview-image: /images/2014-04-10-free-architecture/kristen.jpg
+preview-image: /images/2014-04-10-free-architecture/stakeholders.jpg
 project-image:
 tagline: <em>Foster agency and embrace democratic design through welcoming, hands-on access to design processes, available directly to the inhabitants of public spaces.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -14,9 +14,13 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <p class="col-md-8 col-md-offset-2"> Free sample architecture is a design methodology that sparks new communication pathways. It uses design interventions as a conversational icebreaker between designers, the authorities who manage public space, and the many people who experience it. </p>
 
+<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-10-free-architecture/peopleconstruction.jpg" alt="Benches"/></p>
+
 <p class="col-md-8 col-md-offset-2"> In Free Sample Architecture, designers employ physical prototypes to test out potential solutions to a design challenge, in small low-risk components. Individuals who encounter the humble “free sample” experience it first hand. Documenting visitors’ positive or negative reactions, through voting, provides anecdotal but earnest feedback about the value of particular design possibility.
 
 Human-scale prototypes are accessible to all demographics of people, provided they are occupying the hyperlocal space of the site. In many cities, individuals or marginalized groups may not presently recognize that they have a right to help shape the public spaces around them. By providing a simple democratic voting platform, accessible to anyone in the physical site, the design process fosters agency.</p>
+
+<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-10-free-architecture/axiomkristen.jpg" alt="10 East Lake Axiom"/></p>
 
 <p class="col-md-8 col-md-offset-2"> A democratic process of identifying what people need at a site has the potential to break through the limitations of existing forms of observational site research. Public space design can be transformed into a welcoming, transparent series of interactions.
 
