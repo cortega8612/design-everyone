@@ -5,7 +5,7 @@ categories:
 title: "People's Platform"
 date: 2014-11-07
 type: maker
-preview-image: /images/2014-04-10-people-platform/walk-platform.jpg
+preview-image: /images/2014-04-10-people-platform/renderpiezo.jpg
 project-image:
 tagline: <em>A device that will encourage people to interact with each other in a more meaningful way.</em>
 video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -13,7 +13,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <p class="col-md-8 col-md-offset-2"> The main idea behind my project is to find, or “define” what is the community around the loop that is interested in rethinking public space. Who is truly invested in making a meaningful impact in the way people interact in the loop outside of privet investors and students. In a sense, it is an intervention to make people reflect upon the idea of how public space defines community and vice versa.</p>
 
-<p class="col-md-12 col-md-offset-4"><img class="img-responsive img-thumbnail" src="/images/2014-04-10-people-platform/platform.jpg" alt="Walkable Platform"/></p>
+<p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-10-people-platform/piezoboard.jpg" alt="Walkable Platform"/></p>
 
 <p class="col-md-8 col-md-offset-2"> On of the key components of my project is the use of piezoelectric sensors that respond to changes in pressure. I am particularly interested in this kind of technology because the principal of piezoelectricity indicates that such an electric charge is very common in organic materials such as proteins, bone structures and even DNA. </p>
 
