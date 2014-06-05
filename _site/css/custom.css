@@ -3,6 +3,18 @@ body {
   font-size: 18px;
 }
 
+#body1 {
+    background-color: #1A6E93;
+    background-repeat: no-repeat;
+}
+
+.vcenter {
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
 a, a:hover {
 color: #00aaee;
 }
