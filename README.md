@@ -1,11 +1,17 @@
 design-everyone
 ===============
-This is a test 
 
-Hi this is Derek
+Compilation of work done by the GFRY Studio 2013-2014 at the School of the Art Institute of Chicago.
 
-this is a sublime test
+This website was realized in collaboration with <a href='http://datamade.us'>DataMade</a>. 
 
-Carlos change
+This site is build using jekyll and boostrap
 
-Derek sublime test
+Install
+
+sudo gem install jekyll
+sudo gem install rdiscount
+
+Run
+
+jekyll serve --w
