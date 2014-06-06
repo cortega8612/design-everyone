@@ -3,10 +3,14 @@ body {
   font-size: 18px;
 }
 
-#body1 {
-    background-color: #1A6E93;
+/* body full image
+
+body {
+    background-image: url("/images/homepage/collective-vision.jpg");
     background-repeat: no-repeat;
+    background-position: center top;
 }
+*/
 
 .vcenter {
     text-align: center;
@@ -23,7 +27,7 @@ h1, h2, h3 { padding-top: 70px; margin-top: -70px; }
 
 h2 {
  color: #4E4F4A;
- font-family: Minion;
+ font-family: Helvetica;
 }
 
 .navbar-header>.navbar-brand, .navbar-inverse .navbar-nav>li>a {color: #00aaee;
@@ -39,7 +43,7 @@ margin-top: 7px;
   position: absolute;
 	width: 100%;
 	background-color: #1A6E93;
-	height: 50px;
+	height: 70px;
 	border-top: 2px #FFFFFF solid;
 }
 

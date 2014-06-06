@@ -33,3 +33,11 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 A third year student in the Masters of Architecture program.
 Majored in International Law for Bachelor’s Degree at Ewha Woman’s University, South Korea. 
 Interested in conceptual and theoretical value of architecture. Believes studying architectural design will deepen her own understanding of the world, furthermore influencing others in a positive way.</p>
+
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/AW_saic.pdf' target="_blank">Read more about me.</a>
+</p>
+
+
+
+

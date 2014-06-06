@@ -30,3 +30,9 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 <p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-10-people-platform/luis.jpg" alt="Luis"/></p>
 
 <p class="col-md-7 col-md-offset-2"> I am a photographer concerned with the contemporary portrait of our society. The impulse to record clashes within social structures is what has driven me to translate my visual practice into social action. Back in Mexico, the place where I was born and raised, I worked for a non-governmental organization as a social worker. My arrival to the USA– where I have to learn both a new language and subsequently new cultural modes –contributed to my deeper understanding of those inconsistencies in all societies. As a photographer I am inspired to communicate my critique of such contradictions through the medium of images. As a designer, I am interested in the different possible solutions to those contradictions and how the re-thinking of public space, technology and infrastructure can become the catalyzers of change.  </p>
+
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/LF_saic.pdf' target="_blank">Read more about me.</a>
+</p>
+
+

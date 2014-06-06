@@ -41,3 +41,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 	Steve Kwak is a third year master of architecture student at SAIC, and an advocate of interactive public spaces. He is committed to sustainable and responsible design, and he is more interested in the horizontally oriented projects than the vertically oriented. Steve was born in South Korea but he spent most of childhood in Vancouver, Canada. He is addicted to diet coke and he collects cool pens. 
 </p>
 
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/SK_saic.pdf' target="_blank">Read more about me.</a>
+</p>
+

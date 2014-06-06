@@ -29,15 +29,22 @@ A collection of strategies and tactics for:
 <p class="col-md-10 col-md-offset-1"><img class="img-responsive img-thumbnail" src="/images/2014-04-07-art-interventions/art-int.jpg" alt="Art Intervention"/></p>
 
 ---
+<div>
+	<h2 class="col-md-10 col-md-offset-2">Author</h2>
+		
+	<h3 class="col-md-10 col-md-offset-2">Alvaro Amat</h3>
 
-<h2 class="col-md-10 col-md-offset-2">Author</h2>
-	
-<h3 class="col-md-10 col-md-offset-2">Alvaro Amat</h3>
+	<p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-07-art-interventions/alvaro.jpg" alt="Alvaro"/></p>
 
-<p  class="col-md-2 pull-right"><img class="img-responsive img-rounded img-author" src="/images/2014-04-07-art-interventions/alvaro.jpg" alt="Alvaro"/></p>
+	<p class="col-md-7 col-md-offset-2">
+		I am Exhibition Design Director at The Field Museum since 2006, with over 20 years of experience as an Architect, Designer, Educator and Artist, working in Spain, Mexico and the United States. My work, ranging from buildings to exhibitions, incorporates arts-based research and design as inquiry in the threshold between pedagogy, philosophy, architecture and poetry. With an interest in experimental gatherings to re-envision the space of shared knowledge and the emergence of creative collaboration, I am pursuing a Master of Arts. At the Gfry Studio I want to critically explore the boundaries of democratic participation in the definition of the public space. 
+	</p>
+</div>
 
-<p class="col-md-7 col-md-offset-2">
-	I am Exhibition Design Director at The Field Museum since 2006, with over 20 years of experience as an Architect, Designer, Educator and Artist, working in Spain, Mexico and the United States. My work, ranging from buildings to exhibitions, incorporates arts-based research and design as inquiry in the threshold between pedagogy, philosophy, architecture and poetry. With an interest in experimental gatherings to re-envision the space of shared knowledge and the emergence of creative collaboration, I am pursuing a Master of Arts. At the Gfry Studio I want to critically explore the boundaries of democratic participation in the definition of the public space. 
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/AA_saic.pdf' target="_blank">Read more about me.</a>
 </p>
+
+
 
 

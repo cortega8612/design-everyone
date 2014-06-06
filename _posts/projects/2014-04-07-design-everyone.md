@@ -41,4 +41,7 @@ The necessity of feedback at any creative process is vital, since the scope is b
 	As designer and cofounder of Iguana 4 Studio, a sustainable firm based in Mexico City, I believe everyone and everything is interconnected: people, behaviors, products, services, environments, systems, etc.; and design is the tool that harmonizes those connections. The outcome of the design will be remarkable, profound, weak or disastrous depending on how we manage those connections. The more contextual and cultural information we can get about: Behaviors, functionality, performance, limitations, constraints, the more we will be able to expand the potential solutions. When we know and understand the multiple factors that limit a system, we will discover not linear solutions but resolutions that make sense delighting the senses and nourishing our communities.
 </p>
 
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/CO_saic.pdf' target="_blank">Read more about me.</a>
+</p>
 

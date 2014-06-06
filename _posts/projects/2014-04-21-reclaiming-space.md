@@ -30,3 +30,10 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 
 <p class="col-md-7 col-md-offset-2">
 William is currently pursuing his Masters of Arts in Art Education (2015) and received his Bachelors of Fine Arts in Art Education (2000) from the School of the Art Institute of Chicago. He has worked with community organizations since 1998 and continues to participate in various community projects in the Chicago land area. William’s participation in GFRY Studio stems from his interest and constant discussion with people who are marginalized and deal with racism, displacement, media inequality, cultural preservation, misrepresentation, historical passivity, and other matters affecting our communities.</p>
+
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/WE_saic.pdf' target="_blank">Read more about me.</a>
+</p>
+
+
+

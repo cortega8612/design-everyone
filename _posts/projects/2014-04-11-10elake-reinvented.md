@@ -28,3 +28,7 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 <p class="col-md-7 col-md-offset-2">
 As a designer and preservationist, I believe great design stems from a foundation of authenticity, commitment, honesty, and responsibility. I am committed to the built and natural environments in which we live and work and believe I, as a designer, take responsibility for the impact these spaces have on one another. I strive to craft spaces that maintain the authenticity of their original use while maintaining relevance. Structures and landscapes are like multi-generational families in that they have an enduring and shared sense of history, but are flexible and yielding as time progresses. Because of their evolving nature, they must be approached with sensitivity to their preservation.</p>
  
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/ER_saic.pdf' target="_blank">Read more about me.</a>
+</p>
+

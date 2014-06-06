@@ -31,4 +31,8 @@ video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" hei
 	Candidate for the Master of Arts in Arts Administration and Policy at The School of the Art Institute of Chicago. I am a China born, Norwegian-based interdisciplinary artist and cultural organizer interested in cities, social justice, and our cultural commons. I have an MA, Design, from Bergen National Academy of the Arts, Norway and a BFA, Art, from Yanshan University, China. I have spent much of my time working with cultural institutions, focusing upon socially engaged and collective public art projects. 
 </p>
 
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/XH_saic.pdf' target="_blank">Read more about me.</a>
+</p>
+
 

@@ -35,3 +35,6 @@ Initial reactions to a prototype begin to contributes to ongoing development of 
 <p class="col-md-7 col-md-offset-2">
 Cities are becoming more resilient via increasingly inclusive design processes. In my final year of the Master of Architecture program at SAIC, I am emboldened by the vibrancy of the walkable, democratic streetscape. I seek experimental approaches to urban design rooted in deep inquiry and frank exchange. My B.A. in Art History and Criticism from Bates College, with minor in Economics, culminated in an interview-driven undergraduate thesis on new models of urban public housing. Prior to Chicago, I was a writer and curatorial assistant in New York, and later at the Smithsonian’s Hirshhorn Museum. A hungry wanderlust led to art criticism projects in Buenos Aires and Cape Town. Despite a love of experiential travel and urban life, the rugged resourcefulness of rural New England fuels my design sensibility.</p>
 
+<p class="class-md-12 col-md-offset-7 icon-file-text">
+	<a href='/docs/KM_saic.pdf' target="_blank">Read more about me.</a>
+</p>
