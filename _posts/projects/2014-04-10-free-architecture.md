@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-10-free-architecture/peopleconstruction.jpg
 project-image:
 tagline: <em>Foster agency and embrace democratic design through welcoming, hands-on access to design processes, available directly to the inhabitants of public spaces.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97582012?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 

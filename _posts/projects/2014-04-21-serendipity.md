@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-21-serendipity/render2.jpg
 project-image:
 tagline: <em>The moment of serendipity; harmoniously curated sensory experiences to evoke new emotions.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97582011?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> Creating serendipitious moments in the city with harmoniousely curated programs. The boundaries of each project, as well as the 10 E. Lake to be softened by the installation of indigenious plants and serendipitious vegetation.</p>

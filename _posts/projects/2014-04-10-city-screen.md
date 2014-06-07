@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-10-city-screen/city-light.jpg
 project-image:
 tagline: <em>Democratic participatory design for public access and education for sustainability and green technology.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: 
 ---
 
 <p class="col-md-8 col-md-offset-2"> The City Screen project includes light installations combined with Arduino based environmental sensors that create a sensory experience and attract the curiosity of people passing by the 10 East Lake Street site. The visualization reacts to movement, light, and sound, while also tracking CO and other gas levels, temperature, and humidity. Through the visualization of environmental data, the advanced technical data for green technology will be interpreted in a playful and easy to read format for the public to receive and interact. </p>

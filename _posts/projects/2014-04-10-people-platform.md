@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-10-people-platform/renderpiezo.jpg
 project-image:
 tagline: <em>A device that will encourage people to interact with each other in a more meaningful way.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97582013?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> The main idea behind my project is to find, or “define” what is the community around the loop that is interested in rethinking public space. Who is truly invested in making a meaningful impact in the way people interact in the loop outside of privet investors and students. In a sense, it is an intervention to make people reflect upon the idea of how public space defines community and vice versa.</p>

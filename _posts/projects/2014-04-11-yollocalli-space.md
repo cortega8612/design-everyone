@@ -8,7 +8,7 @@ type: educator
 preview-image: /images/2014-04-11-yollocalli-space/quilt.jpg
 project-image:
 tagline: <em>Artists working in collaboration with community members, to figuratively, literally, and critically reimagine, the spaces around us.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97582014?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> Quilting Chicago is a public art project that critically and creatively engages community stakeholders in issues of public space within the city of Chicago.  Working in partnership with Chicago Public Schools, we are creating a large-scale, modular mural which will temporarily cover the facade of the abandoned substation at 10 East Lake Street in the Loop.  The purpose of the mural is three-fold:  first, it will create opportunities for youth artistic expression and reflection; second, it will articulate our citizens needs in an elegant and artistic manner; finally, it will beautify and become a point of interest at an underused but central location. </p>

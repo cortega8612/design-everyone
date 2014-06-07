@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-11-10elake-reinvented/10lake-thumb.jpg
 project-image:
 tagline: <em>Encouraging the conversation about the reinvention of underutilized public space through a sustainability, technology and culture.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97581689?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> 10 East Lake Street reinvented begins the conversation about the adaptive reuse of underutilized public space and maintaining community integrity through a sustainable, energy efficient, technologically innovative, and culturally significant project. This project will present a model for public space which will bring together the arts, education, culture, planning, preservation, and sustainability for the public good.</p>

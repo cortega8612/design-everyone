@@ -8,10 +8,10 @@ type: thinker
 preview-image: /images/2014-04-07-art-interventions/meal.jpg
 project-image: 
 tagline: <em>Using performance art interventions and participatory design tools to invite community conversations and inclusive workshops for the exploration and re-imagining of public space.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97581683?byline=0&amp;portrait=0" width="560" height="420" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ---
 
-	
 <ul class="col-md-8 col-md-offset-2">
 A collection of strategies and tactics for:
 		<li>The creation and consolidation of multidisciplinary collectives.</li>
