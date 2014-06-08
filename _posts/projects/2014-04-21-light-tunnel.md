@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-21-light-tunnel/light-site.jpg
 project-image:
 tagline: <em>Well designed public space must allows the users to interact with the environment and the people around them regar- less of age, income level, cultural background, or social status.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97632218?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> Light Tunnel project is a small-scale social experiment that is designed to work as a social catalyst in allowing the users to become more open minded towards each other. By participating in the interactive experience with others, the users may adopt new ways of seeing and understanding the city and the people within. </p>

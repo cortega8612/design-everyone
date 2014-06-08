@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-14-inspiring-curiosity/money_shot.jpg
 project-image:
 tagline: <em>Inspire curiosity, playfulness and unique experiences, giving visitors a more intimate relationship with public spaces.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97632215?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> By exploring the potential of embedded digital technologies in public spaces, we are able to design architecture that engages it's users while also challenging the alienation and social barriers typically brought on by modern technology. The goal of this project is to create an environment that engages conversation, collaboration and group play among its occupants through the use of technology, ultimately leaving them with unique and memorable experiences. 

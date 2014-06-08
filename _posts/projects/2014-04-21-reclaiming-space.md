@@ -8,7 +8,7 @@ type: maker
 preview-image: /images/2014-04-21-reclaiming-space/stools.jpg
 project-image:
 tagline: <em>Interventions addressing community concerns through curiosity, play and interactions within the community.</em>
-video-interview: <iframe src="//player.vimeo.com/video/39912748" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p class="col-md-10 col-md-offset-3"><a href="http://vimeo.com/39912748">SAIC AGC GFRY Studio mock-up test</a> from <a href="http://vimeo.com/user10322039">David Evancho</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+video-interview: <iframe src="//player.vimeo.com/video/97632217?byline=0&amp;portrait=0" width="560" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ---
 
 <p class="col-md-8 col-md-offset-2"> When public infrastructures fail in marginalized communities, members of the community usually criticize the lack of attention government officials give to their communities. Community members have ideas on how to address the failing infrastructure but don’t always have the means to execute projects that will focus attention and resolve the problems they face.</p>
