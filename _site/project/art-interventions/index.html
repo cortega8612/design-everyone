@@ -121,10 +121,26 @@ A collection of strategies and tactics for:
     <script src="/js/jquery-1.10.1.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/analytics_lib.js"></script>
+  
+    <!--
+    <link type="text/css" rel="stylesheet" href="/css/galleria.classic.css">
+    <script src="/js/galleria-1.4..2min.js"></script>
+    <script src="/js/galleria.flickr.min.js"></script>
+      
+      <script>
+          // Load the classic theme
+          Galleria.loadTheme('/js/galleria.classic.min.js');
+
+          // Initialize Galleria
+          Galleria.run('.galleria', {
+              flickr: 'search:galleria',
+          });
+          </script>
+    -->
+
     <script src="/js/isotope.pkgd.min.js"></script>
     <script src="/js/imagesLoaded.js"></script>
-    
-      <script>
+    <script>
         var $container = $('#project-list').imagesLoaded( function(){
           $container.isotope({
             // options
@@ -142,6 +158,8 @@ A collection of strategies and tactics for:
         $("#btn-maker").on("click", function(){ $container.isotope({ filter: '.maker' }) });
         $("#btn-educator").on("click", function(){ $container.isotope({ filter: '.educator' }) });
       </script>
+
+     
 
   </body>
 </html>
